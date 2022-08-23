@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 
+}
+h1{
+    background-color:rgb(231, 236, 223);
+    color:green;
+    font-size:40px;
+    text-shadow: 0 2px 0 #67bd7c4c;
+    text-align: center;
+    margin: 0;
+}
+
+.conver_img{
+    width: 100w;
+    display: flex;
+    align-items: center;
+    /* vertical */
+    justify-content: center;
+    /* horizonal */
+}
+
+.conver_img img{
+    width: 100%;
+}
