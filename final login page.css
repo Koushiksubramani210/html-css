@@ -1,0 +1,49 @@
+body {
+    background-image: url('../images/rati.WEBP');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+   
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: 
+}
+h1{
+    background-color:rgb(231, 236, 223);
+    color:green;
+    font-size:40px;
+    text-shadow: 0 2px 0 #67bd7c4c;
+    text-align: center;
+    margin: 0;
+}
+.sign-up-form {
+  width: 300px;
+  box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+  background: rgba(248, 245, 245, 0.97);
+  padding: 40px;
+  margin:8% auto 0;
+  text-align: center;
+}
+.input-box {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+}
+.login-btn {
+    
+    padding: 40px;
+}
+
+.sign-btn{
+    border: none;
+    padding: 10px 15px;
+    background: rgb(62, 215, 138);
+    border-radius: 50px;
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
